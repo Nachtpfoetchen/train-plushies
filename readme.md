@@ -13,3 +13,4 @@ Collection of train plushies
 | Elizabeth Line Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/elizabeth-line-train-soft-toy |
 | London Underground 1938 Stock Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-1938-stock-train-soft-toy |
 | London Underground Line Colours | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-line-colours-cushion |
+| Merseyrail class 507/508 | Merseyrail | UK | £19.99 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/1 |
