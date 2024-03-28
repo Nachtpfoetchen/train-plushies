@@ -8,6 +8,7 @@ Collection of train plushies
 | V-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-V-Wagen/PLVZUG |
 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | Elfík plyšová hračka | CD | Czech Republic | 199,00 Kč | https://www.cd.cz/fanshop/hracky/1375-elfik-plysova-hracka.html| 
+| VRIM | NS | Netherlands |  | only offline in Nederlandse Spoorwegen Museum |
 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
 | SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://shop.sob.ch/de/accessoires/flirty-plueschzug/ |
 | SOB-Plüschfuchs Zoe | SOB | Switzerland | 20 CHF | https://shop.sob.ch/de/accessoires/souvenirs/sob-fanartikel/plueschfuchs | 
