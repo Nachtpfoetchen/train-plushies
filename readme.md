@@ -20,4 +20,6 @@ Collection of train plushies
 | NYC Subway Train | NYC Subway | USA | $69.99 | https://shop.tenement.org/product/handmade-organic-nyc-subway-train/ |
 | BART | Bay Area Rapid Transit | USA | $12.00 | https://www.railgoods.com/bart-plush-train.html |
 | BART Foam Train | Bay Area Rapid Transit | USA | $10.00 | https://www.railgoods.com/bart-foam-train.html |
+| Cindy Cityjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-cindy-cityjet/ |
+| Timi Taurus | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-timi-taurus/ |
 
