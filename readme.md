@@ -9,6 +9,7 @@ Collection of train plushies
 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | Cindy Cityjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-cindy-cityjet/ |
 | Timi Taurus | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-timi-taurus/ |
+| Nora Nightjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-nora-nightjet/ |
 | Elfík plyšová hračka | CD | Czech Republic | 199,00 Kč | https://www.cd.cz/fanshop/hracky/1375-elfik-plysova-hracka.html| 
 | VRIM | NS | Netherlands |  | only offline in Spoorweg Museum |
 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
