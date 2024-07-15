@@ -13,6 +13,7 @@ Collection of train plushies
 | Elfík plyšová hračka | CD | Czech Republic | 199,00 Kč | https://www.cd.cz/fanshop/hracky/1375-elfik-plysova-hracka.html| 
 | Murat | Kotoon | Germany | 33,95€ | https://www.moodrush.de/shop/kotoon-murat-der-zug.html |
 | VRIM | NS | Netherlands |  | only offline in Spoorweg Museum |
+| ASm Be 4/8 | Aare Seenland Mobil | Switzerand | 20 CHF | https://www.asmobil.ch/de/aktuelles/pluesch-zug.html only offline in stores |
 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
 | SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://unterwegs.sob.ch/de/products/sob-plueschzug-flirty seite verbuggt? |
 | SOB-Plüschfuchs Zoe | SOB | Switzerland | 20 CHF | https://shop.sob.ch/de/accessoires/souvenirs/sob-fanartikel/plueschfuchs | 
