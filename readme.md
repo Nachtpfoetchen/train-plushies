@@ -14,7 +14,7 @@ Collection of train plushies
 | Murat | Kotoon | Germany | 33,95€ | https://www.moodrush.de/shop/kotoon-murat-der-zug.html |
 | VRIM | NS | Netherlands |  | only offline in Spoorweg Museum |
 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
-| SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://shop.sob.ch/de/accessoires/flirty-plueschzug/ |
+| SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://unterwegs.sob.ch/de/products/sob-plueschzug-flirty seite verbuggt? |
 | SOB-Plüschfuchs Zoe | SOB | Switzerland | 20 CHF | https://shop.sob.ch/de/accessoires/souvenirs/sob-fanartikel/plueschfuchs | 
 | Tube Train | Transport for London | UK | €19,80 (55cm) €29,72€ (80 cm) | https://thelondontoycompany.co.uk/products/london-underground-train-soft-toy |
 | Elizabeth Line Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/elizabeth-line-train-soft-toy |
