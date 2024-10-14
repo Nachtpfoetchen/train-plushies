@@ -33,8 +33,8 @@ Collection of train plushies
 | 🟢 | London Underground 1938 Stock Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-1938-stock-train-soft-toy |
 | 🟢 | London Underground Line Colours | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-line-colours-cushion |
 | 🔴 | Merseyrail class 507/508 | Merseyrail | UK | £19.99 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/1 |
-| 🟢 | NYC Subway Train | NYC Subway | USA | $69.99 | https://shop.tenement.org/product/handmade-organic-nyc-subway-train/ |
+| 🟢 | SD-70 Mac Engine | Alaska Railroad | USA | $24.95 | https://www.alaskarailroadgiftshop.com/product/plush-engine-pillow/956 |
 | 🟢 | ALC-42 | Amtrak | USA | $17.98 | https://www.store.amtrak.com/1737058/1737058/alc-42-plush-toy-train.html |
 | 🟢 | BART | Bay Area Rapid Transit | USA | $12.00 | https://www.railgoods.com/bart-plush-train.html |
 | 🟢 | CORI | Capitol Corridor | USA | $14.99 | https://www.railgoods.com/capitol-corridor-plush-cori-train.html |
-
+| 🟢 | NYC Subway Train | NYC Subway | USA | $69.99 | https://shop.tenement.org/product/handmade-organic-nyc-subway-train/ |
