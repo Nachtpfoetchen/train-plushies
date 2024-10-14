@@ -14,6 +14,7 @@ Collection of train plushies
 | Murat | Kotoon | Germany | 33,95€ | https://www.moodrush.de/shop/kotoon-murat-der-zug.html |
 | Pauly | KVV | Germany | 9,50€ | only offline in KVV service center (Durlacher Allee) |
 | VRIM | NS | Netherlands |  | only offline in Spoorweg Museum |
+| Tram Pillow | TRAM | Spain | 49,95€ | https://botiga.tram.cat/en/product/tram-shaped-pillow/ |
 | ASm Be 4/8 | Aare Seenland Mobil | Switzerand | 20 CHF | https://www.asmobil.ch/de/aktuelles/pluesch-zug.html only offline in stores |
 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
 | SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://unterwegs.sob.ch/de/products/sob-plueschzug-flirty seite verbuggt? |
