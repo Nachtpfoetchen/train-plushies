@@ -24,6 +24,7 @@ Collection of train plushies
 | 🟡 | TRAMi | TRAM | Spain | 9,99€ | https://botiga.tram.cat/en/product/tram-plush-toy/ |
 | 🟢 | Tram Pillow | TRAM | Spain | 49,95€ | https://botiga.tram.cat/en/product/tram-shaped-pillow/ |
 | 🔵 | ASm Be 4/8 | Aare Seenland Mobil | Switzerand | 20 CHF | https://www.asmobil.ch/de/aktuelles/pluesch-zug.html only offline in stores |
+| 🟢 | Plüschzug Allegra | RhB | Switzerland | 18,50 CHF | https://www.rhb-shop.ch/de/kategorie-fur-rhb/pluschzug-allegra/ |
 | 🟢 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
 | 🟢 | SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://unterwegs.sob.ch/de/products/sob-plueschzug-flirty seite verbuggt? |
 | 🟢 | SOB-Plüschfuchs Zoe | SOB | Switzerland | 20 CHF | https://shop.sob.ch/de/accessoires/souvenirs/sob-fanartikel/plueschfuchs | 
