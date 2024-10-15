@@ -48,8 +48,8 @@ Collection of train plushies
 
 # Unofficial trains
 
-| Status | Model | Train Operator | Country | Price | Image / Weblink |
-| ------ | ----- | -------------- | ------- | ----- | --------------- |
+|    | Model | Train Operator | Country | Price | Image / Weblink |
+| --- | ----- | -------------- | ------- | ----- | --------------- |
 | 🟢 | Murat | Kotoon | Germany | 33,95€ | https://www.moodrush.de/shop/kotoon-murat-der-zug.html |
 
 Cool unofficial train pillows: https://cosacostra.com/en/collections/cojines
