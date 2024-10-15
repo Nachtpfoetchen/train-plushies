@@ -11,8 +11,8 @@ Collection of train plushies
 
 ## Still Available Trains
 
-| Status | Model | Train Operator | Country | Price | Image / Weblink |
-| ------ | ----- | -------------- | ------- | ----- | --------------- |
+|    | Model | Train Operator | Country | Price | Image / Weblink |
+| --- | ----- | -------------- | ------- | ----- | --------------- |
 | 🟢 | Felexity | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-Strassenbahn-Flexity/PLFLEX |
 | 🟢 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | 🟢 | Cindy Cityjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-cindy-cityjet/ |
@@ -40,8 +40,8 @@ Collection of train plushies
 
 ## Discontinued Trains
 
-| Status | Model | Train Operator | Country | Price | Image / Weblink |
-| ------ | ----- | -------------- | ------- | ----- | --------------- |
+|    | Model | Train Operator | Country | Price | Image / Weblink |
+| --- | ----- | -------------- | ------- | ----- | --------------- |
 | 🔴 | V-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-V-Wagen/PLVZUG |
 | 🔴 | Kuschel U-Bahn | BVG | Germany | unkown | https://de.m.wikipedia.org/wiki/Datei:Kuschel-ubahn_f%C3%BCr_metrophile.jpg |
 | 🔴 | Merseyrail class 507/508 | Merseyrail | UK | £19.99 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/1 |
