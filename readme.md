@@ -9,10 +9,11 @@ Collection of train plushies
 | 🔵 | only offline available |
 | 🔴 | not available anymore |
 
+## Still Available Trains
+
 | Status | Model | Train Operator | Country | Price | Image / Weblink |
 | ------ | ----- | -------------- | ------- | ----- | --------------- |
 | 🟢 | Felexity | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-Strassenbahn-Flexity/PLFLEX |
-| 🔴 | V-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-V-Wagen/PLVZUG |
 | 🟢 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | 🟢 | Cindy Cityjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-cindy-cityjet/ |
 | 🟡 | Timi Taurus | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-timi-taurus/ |
@@ -32,9 +33,18 @@ Collection of train plushies
 | 🟡 | Elizabeth Line Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/elizabeth-line-train-soft-toy |
 | 🟢 | London Underground 1938 Stock Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-1938-stock-train-soft-toy |
 | 🟢 | London Underground Line Colours | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-line-colours-cushion |
-| 🔴 | Merseyrail class 507/508 | Merseyrail | UK | £19.99 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/1 |
 | 🟢 | SD-70 Mac Engine | Alaska Railroad | USA | $24.95 | https://www.alaskarailroadgiftshop.com/product/plush-engine-pillow/956 |
 | 🟢 | ALC-42 | Amtrak | USA | $17.98 | https://www.store.amtrak.com/1737058/1737058/alc-42-plush-toy-train.html |
 | 🟢 | BART | Bay Area Rapid Transit | USA | $12.00 | https://www.railgoods.com/bart-plush-train.html |
 | 🟢 | CORI | Capitol Corridor | USA | $14.99 | https://www.railgoods.com/capitol-corridor-plush-cori-train.html |
 | 🟢 | NYC Subway Train | NYC Subway | USA | $69.99 | https://shop.tenement.org/product/handmade-organic-nyc-subway-train/ |
+
+## Discontinued Trains
+
+| Status | Model | Train Operator | Country | Price | Image / Weblink |
+| ------ | ----- | -------------- | ------- | ----- | --------------- |
+| 🔴 | V-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-V-Wagen/PLVZUG |
+| 🔴 | Merseyrail class 507/508 | Merseyrail | UK | £19.99 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/1 |
+
+# Unofficial trains
+Cool unofficial train pillows: https://cosacostra.com/en/collections/cojines
