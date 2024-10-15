@@ -43,6 +43,7 @@ Collection of train plushies
 | Status | Model | Train Operator | Country | Price | Image / Weblink |
 | ------ | ----- | -------------- | ------- | ----- | --------------- |
 | 🔴 | V-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-V-Wagen/PLVZUG |
+| 🔴 | Kuschel U-Bahn | BVG | Germany | unkown | https://de.m.wikipedia.org/wiki/Datei:Kuschel-ubahn_f%C3%BCr_metrophile.jpg |
 | 🔴 | Merseyrail class 507/508 | Merseyrail | UK | £19.99 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/1 |
 
 # Unofficial trains
