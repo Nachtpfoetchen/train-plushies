@@ -61,5 +61,7 @@ Collection of train plushies
 | 🟢 | Melbourne Tram | Melbourne & Metropolitan Tramways | Australia | 19.99$ | https://www.souvenirsdirect.net.au/product/melbourne-tram-plush-soft-toy/ |
 | 🟢 | Murat | Kotoon | Germany | 33,95€ | https://www.moodrush.de/shop/kotoon-murat-der-zug.html |
 | 🟢 | Peak Tram | HSH | Hongkong | n/a | https://sourcing.hktdc.com/en/Product-Detail/Peak-Tram-Plush-1X1THN5Y |
+| 🟢 | Cable Car | San Francisco | USA | 13,99€ | https://inooko.com/products/jouet-chien-tramway-san-francisco-pet-play |
+
 
 Cool unofficial train pillows: https://cosacostra.com/en/collections/cojines
