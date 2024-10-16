@@ -36,6 +36,7 @@ Collection of train plushies
 | 🟢 | ALC-42 | Amtrak | USA | $17.98 | https://www.store.amtrak.com/1737058/1737058/alc-42-plush-toy-train.html |
 | 🟢 | BART | Bay Area Rapid Transit | USA | $12.00 | https://www.railgoods.com/bart-plush-train.html |
 | 🟢 | CORI | Capitol Corridor | USA | $14.99 | https://www.railgoods.com/capitol-corridor-plush-cori-train.html |
+| 🟢 | Mount Washington Cog Railway | Mount Washington Cog Railway | USA | $20.00 | https://www.thecog.com/store/p/mount-washington-cog-railway-plush-steam-train |
 | 🟢 | NYC Subway Train | NYC Subway | USA | $69.99 | https://shop.tenement.org/product/handmade-organic-nyc-subway-train/ |
 
 ## Discontinued Trains
