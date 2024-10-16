@@ -44,6 +44,7 @@ Collection of train plushies
 | --- | ----- | -------------- | ------- | ----- | --------------- |
 | 🔴 | V-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-V-Wagen/PLVZUG |
 | 🔴 | Kuschel U-Bahn | BVG | Germany | unkown | https://de.m.wikipedia.org/wiki/Datei:Kuschel-ubahn_f%C3%BCr_metrophile.jpg |
+| 🔴 | HK Tramcar | Hongkong Tramways | Hongkong | n/a | https://tramric.wordpress.com/2012/11/03/cute-hk-tramcar-plush/ |
 | 🔴 | Merseyrail class 507/508 | Merseyrail | UK | £19.99 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/1 |
 
 # Unofficial trains
@@ -51,7 +52,7 @@ Collection of train plushies
 |    | Model | Train Operator | Country | Price | Image / Weblink |
 | --- | ----- | -------------- | ------- | ----- | --------------- |
 | 🟢 | Melbourne Tram | Melbourne & Metropolitan Tramways | Australia | 19.99$ | https://www.souvenirsdirect.net.au/product/melbourne-tram-plush-soft-toy/ |
-| 🟢 | Peak Tram | HSH | Hongkong | n/a | https://sourcing.hktdc.com/en/Product-Detail/Peak-Tram-Plush-1X1THN5Y |
 | 🟢 | Murat | Kotoon | Germany | 33,95€ | https://www.moodrush.de/shop/kotoon-murat-der-zug.html |
+| 🟢 | Peak Tram | HSH | Hongkong | n/a | https://sourcing.hktdc.com/en/Product-Detail/Peak-Tram-Plush-1X1THN5Y |
 
 Cool unofficial train pillows: https://cosacostra.com/en/collections/cojines
