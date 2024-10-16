@@ -42,6 +42,7 @@ Collection of train plushies
 | 🟢 | Jenkinson's Beach Train | Jenkinson’s Boardwalk | USA | $14.99 | https://jenkinsonsboardwalkstore.company.site/Jenkinsons-Beach-Train-Plush-p594216302 |
 | 🟢 | Mount Washington Cog Railway | Mount Washington Cog Railway | USA | $20.00 | https://www.thecog.com/store/p/mount-washington-cog-railway-plush-steam-train |
 | 🟢 | NYC Subway Train | NYC Subway | USA | $69.99 | https://shop.tenement.org/product/handmade-organic-nyc-subway-train/ |
+| 🟡 | NYC Subway Train | NYC Subway | USA | $14.99 | https://www.citysouvenirs.com/new-york-city-plush-subway-train-car/ |
 
 ## Discontinued Trains
 
