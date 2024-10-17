@@ -20,7 +20,8 @@ Collection of train plushies
 | 🟢 | Nora Nightjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-nora-nightjet/ |
 | 🟢 | Elfík plyšová hračka | CD | Czech Republic | 199,00 Kč | https://www.cd.cz/fanshop/hracky/1375-elfik-plysova-hracka.html| 
 | 🔵 | Pauly | KVV | Germany | 9,50€ | [🖼️](images/germany-kvv-pauly.jpg) only offline in KVV service center (Durlacher Allee) |
-| 🔵 | VRIM | NS | Netherlands |  | only offline in Spoorweg Museum |
+| 🔵 | VRIM | NS | Netherlands | n/a | only offline in Spoorweg Museum |
+| 🟢 | Underground train plushy | Park Postojnska Jama | Slovenia | 16,99€ | https://tickets.postojnska-jama.eu/en/shop/pl%C3%BCsch-zug-25-cm/62-art.html |
 | 🟡 | TRAMi | TRAM | Spain | 9,99€ | https://botiga.tram.cat/en/product/tram-plush-toy/ |
 | 🟢 | Tram Pillow | TRAM | Spain | 49,95€ | https://botiga.tram.cat/en/product/tram-shaped-pillow/ |
 | 🔵 | ASm Be 4/8 | Aare Seenland Mobil | Switzerand | 20 CHF | https://www.asmobil.ch/de/aktuelles/pluesch-zug.html only offline in stores |
