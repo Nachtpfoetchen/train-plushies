@@ -45,6 +45,7 @@ Collection of train plushies
 | 🟢 | Mount Washington Cog Railway | Mount Washington Cog Railway | USA | $20.00 | https://www.thecog.com/store/p/mount-washington-cog-railway-plush-steam-train |
 | 🟢 | NYC Subway Train | NYC Subway | USA | $69.99 | https://shop.tenement.org/product/handmade-organic-nyc-subway-train/ |
 | 🟡 | NYC Subway Train | NYC Subway | USA | $14.99 | https://www.citysouvenirs.com/new-york-city-plush-subway-train-car/ |
+| 🟢 | Metro plush | SEPTA | USA | $19.95 | https://shop.septa.org/collections/toys/products/stuffed-train |
 
 ## Discontinued Trains
 
