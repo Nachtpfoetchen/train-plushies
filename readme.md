@@ -54,6 +54,9 @@ Collection of train plushies
 | 🔴 | V-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-V-Wagen/PLVZUG |
 | 🔴 | Kuschel U-Bahn | BVG | Germany | unkown | https://de.m.wikipedia.org/wiki/Datei:Kuschel-ubahn_f%C3%BCr_metrophile.jpg |
 | 🔴 | HK Tramcar | Hongkong Tramways | Hongkong | n/a | https://tramric.wordpress.com/2012/11/03/cute-hk-tramcar-plush/ |
+| 🔴 | Doctor Yellow | JR-Central | Japan | n/a |  https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E5%93%81-m65887970341-923%E5%BD%A2%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%B3%E3%82%B0%E3%81%AC%E3%81%84%E3%81%90%E3%82%8B%E3%81%BF-130cm/dp/B0DCC2ZN47|
+| 🔴 | Doctor Yellow | JR-Central | Japan | n/a | https://www.amazon.co.jp/-/en/Railway-Anniversary-Kujibiki-Shinkansen-Doctor/dp/B0BBVGK9Z1 |
+| 🔴 | Shinkansen E5 | JR-East | Japan | n/a | https://www.amazon.co.jp/-/en/Railway-Anniversary-Kujibiki-Shinkansen-Doctor/dp/B0BBVGK9Z1 |
 | 🔴 | tarumi-railway | Tarumi Railway | Japan | n/a | https://raillab.jp/news/article/14065 |
 | 🔴 | Merseyrail class 507/508 | Merseyrail | UK | £19.99 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/1 |
 | 🔴 | FEC Train | Florida East Coast | USA | n/a | https://www.ebay.com/itm/176493212164 |
