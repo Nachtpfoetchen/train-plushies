@@ -51,7 +51,7 @@ Collection of train plushies
 
 |    | Model | Train Operator | Country | Price | Image / Weblink |
 | --- | ----- | -------------- | ------- | ----- | --------------- |
-| 🔴 | V-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-V-Wagen/PLVZUG |
+| 🔴 | V-Wagen | Wiener Linien | Austria | 24,90€ | https://web.archive.org/web/20240422204337/https://shop.wienerlinien.at/Pluesch-U-Bahn-V-Wagen/PLVZUG |
 | 🔴 | Kuschel U-Bahn | BVG | Germany | unkown | https://de.m.wikipedia.org/wiki/Datei:Kuschel-ubahn_f%C3%BCr_metrophile.jpg |
 | 🔴 | HK Tramcar | Hongkong Tramways | Hongkong | n/a | https://tramric.wordpress.com/2012/11/03/cute-hk-tramcar-plush/ |
 | 🔴 | Doctor Yellow | JR | Japan | n/a |  https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E5%93%81-m65887970341-923%E5%BD%A2%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%B3%E3%82%B0%E3%81%AC%E3%81%84%E3%81%90%E3%82%8B%E3%81%BF-130cm/dp/B0DCC2ZN47|
@@ -59,8 +59,8 @@ Collection of train plushies
 | 🔴 | N-700 | JR | Japan | n/a | https://www.amazon.co.jp/-/en/Shinkansen-Doctor-Yellow-Nozomi-Limited/dp/B0B54PZYDB |
 | 🔴 | Shinkansen E5 | JR | Japan | n/a | https://www.amazon.co.jp/-/en/Railway-Anniversary-Kujibiki-Shinkansen-Doctor/dp/B0BBVGK9Z1 |
 | 🔴 | tarumi-railway | Tarumi Railway | Japan | n/a | https://raillab.jp/news/article/14065 |
-| 🔴 | SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://unterwegs.sob.ch/de/products/sob-plueschzug-flirty seite verbuggt? |
-| 🔴 | Merseyrail class 507/508 | Merseyrail | UK | £19.99 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/1 |
+| 🔴 | SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://web.archive.org/web/20230328013454/https://unterwegs.sob.ch/de/products/sob-plueschzug-flirty seite verbuggt? Bild auf seite 35 in Essenz 16 Winter 2023: https://d29gqb72f8tdiw.cloudfront.net/media/pdf/4c/a3/c1/SW10790-1001-2001-3043.pdf  |
+| 🔴 | Merseyrail class 507/508 | Merseyrail | UK | £19.99 | https://web.archive.org/web/20240523003836/https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/1 |
 | 🔴 | FEC Train | Florida East Coast | USA | n/a | https://www.ebay.com/itm/176493212164 |
 | 🔴 | FEC Train in red | Florida East Coast | USA | n/a | https://www.jimmytoy.com/red-automobile-stuffed-plush-toy-for-boys-product/ |
 
