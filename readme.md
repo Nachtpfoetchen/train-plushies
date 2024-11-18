@@ -46,6 +46,7 @@ Collection of train plushies
 | 🟢 | NYC Subway Train | NYC Subway | USA | $69.99 | https://shop.tenement.org/product/handmade-organic-nyc-subway-train/ |
 | 🟡 | NYC Subway Train | NYC Subway | USA | $14.99 | https://www.citysouvenirs.com/new-york-city-plush-subway-train-car/ |
 | 🟢 | Metro plush | SEPTA | USA | $19.95 | https://shop.septa.org/collections/toys/products/stuffed-train |
+| 🟢 | 507-001 Original Livery | Merseyrail | UK | £25.00 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/19 |
 
 ## Discontinued Trains
 
