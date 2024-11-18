@@ -30,6 +30,7 @@ Collection of train plushies
 | 🟢 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
 | 🟢 | SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://unterwegs.sob.ch/de/products/sob-plueschzug-flirty seite verbuggt? |
 | 🟢 | SOB-Plüschfuchs Zoe | SOB | Switzerland | 20 CHF | https://shop.sob.ch/de/accessoires/souvenirs/sob-fanartikel/plueschfuchs | 
+| 🟢 | 507-001 Original Livery | Merseyrail | UK | £25.00 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/19 |
 | 🟢 | Flying Scotsman | National Railway Museum | UK | £25.00 | https://shop.sciencemuseum.org.uk/products/flying-scotsman-plush-train |
 | 🔵 | Azuma | North Eastern Railway | UK | | Local, on special events https://www.facebook.com/photo.php?fbid=889663713192003&id=100064451482318&set=a.660554439436266 |
 | 🟢 | Elizabeth II | Severn Valley Railway | UK | £20.00 | https://svrshop.co.uk/products/new-severn-valley-railway-elizabeth-ii-hagley-hall-plushs |
@@ -46,7 +47,6 @@ Collection of train plushies
 | 🟢 | NYC Subway Train | NYC Subway | USA | $69.99 | https://shop.tenement.org/product/handmade-organic-nyc-subway-train/ |
 | 🟡 | NYC Subway Train | NYC Subway | USA | $14.99 | https://www.citysouvenirs.com/new-york-city-plush-subway-train-car/ |
 | 🟢 | Metro plush | SEPTA | USA | $19.95 | https://shop.septa.org/collections/toys/products/stuffed-train |
-| 🟢 | 507-001 Original Livery | Merseyrail | UK | £25.00 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/19 |
 
 ## Discontinued Trains
 
