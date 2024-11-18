@@ -28,14 +28,13 @@ Collection of train plushies
 | 🟢 | Plüschzug GIPIX  | Golden Pass Express / MOB | Switzerland | 15 CHF | https://journey.mob.ch/de/products/peluche-gipix |
 | 🟢 | Plüschzug Allegra | RhB | Switzerland | 18,50 CHF | https://www.rhb-shop.ch/de/kategorie-fur-rhb/pluschzug-allegra/ |
 | 🟢 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
-| 🟢 | SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://unterwegs.sob.ch/de/products/sob-plueschzug-flirty seite verbuggt? |
 | 🟢 | SOB-Plüschfuchs Zoe | SOB | Switzerland | 20 CHF | https://shop.sob.ch/de/accessoires/souvenirs/sob-fanartikel/plueschfuchs | 
 | 🟢 | 507-001 Original Livery | Merseyrail | UK | £25.00 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/19 |
 | 🟢 | Flying Scotsman | National Railway Museum | UK | £25.00 | https://shop.sciencemuseum.org.uk/products/flying-scotsman-plush-train |
 | 🔵 | Azuma | North Eastern Railway | UK | | Local, on special events https://www.facebook.com/photo.php?fbid=889663713192003&id=100064451482318&set=a.660554439436266 |
 | 🟢 | Elizabeth II | Severn Valley Railway | UK | £20.00 | https://svrshop.co.uk/products/new-severn-valley-railway-elizabeth-ii-hagley-hall-plushs |
 | 🟢 | Hagley Hall | Severn Valley Railway | UK | £20.00 | https://svrshop.co.uk/products/new-severn-valley-railway-elizabeth-ii-hagley-hall-plushs |
-| 🟡 | Elizabeth Line Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/elizabeth-line-train-soft-toy |
+| 🟢 | Elizabeth Line Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/elizabeth-line-train-soft-toy |
 | 🟢 | London Underground 1938 Stock Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-1938-stock-train-soft-toy |
 | 🟢 | London Underground Line Colours | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-line-colours-cushion |
 | 🟢 | SD-70 Mac Engine | Alaska Railroad | USA | $24.95 | https://www.alaskarailroadgiftshop.com/product/plush-engine-pillow/956 |
@@ -60,6 +59,7 @@ Collection of train plushies
 | 🔴 | N-700 | JR | Japan | n/a | https://www.amazon.co.jp/-/en/Shinkansen-Doctor-Yellow-Nozomi-Limited/dp/B0B54PZYDB |
 | 🔴 | Shinkansen E5 | JR | Japan | n/a | https://www.amazon.co.jp/-/en/Railway-Anniversary-Kujibiki-Shinkansen-Doctor/dp/B0BBVGK9Z1 |
 | 🔴 | tarumi-railway | Tarumi Railway | Japan | n/a | https://raillab.jp/news/article/14065 |
+| 🔴 | SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://unterwegs.sob.ch/de/products/sob-plueschzug-flirty seite verbuggt? |
 | 🔴 | Merseyrail class 507/508 | Merseyrail | UK | £19.99 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/1 |
 | 🔴 | FEC Train | Florida East Coast | USA | n/a | https://www.ebay.com/itm/176493212164 |
 | 🔴 | FEC Train in red | Florida East Coast | USA | n/a | https://www.jimmytoy.com/red-automobile-stuffed-plush-toy-for-boys-product/ |
