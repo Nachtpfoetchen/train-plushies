@@ -13,17 +13,22 @@ Collection of train plushies
 
 |    | Model | Train Operator | Country | Price | Image / Weblink |
 | --- | ----- | -------------- | ------- | ----- | --------------- |
+<<<<<<< HEAD
 | 🟢 | X-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-X-Wagen/PLXZUG |
 | 🟢 | E1-Straßenbahn  | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-E1-Strassenbahn/PLE1 |
 | 🟢 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | 🟢 | Cindy Cityjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-cindy-cityjet/ |
+=======
+| 🟡 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
+| 🟡 | Cindy Cityjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-cindy-cityjet/ |
+>>>>>>> 3608146 (updated availability info)
 | 🟡 | Timi Taurus | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-timi-taurus/ |
-| 🟢 | Nora Nightjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-nora-nightjet/ |
+| 🟡 | Nora Nightjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-nora-nightjet/ |
 | 🟢 | Elfík plyšová hračka | CD | Czech Republic | 199,00 Kč | https://www.cd.cz/fanshop/hracky/1375-elfik-plysova-hracka.html| 
 | 🔵 | Pauly | KVV | Germany | 9,50€ | [🖼️](images/germany-kvv-pauly.jpg) only offline in KVV service center (Durlacher Allee) |
 | 🔵 | VRIM | NS | Netherlands | n/a | only offline in Spoorweg Museum |
 | 🟢 | Underground train plushy | Park Postojnska Jama | Slovenia | 16,99€ | https://tickets.postojnska-jama.eu/en/shop/pl%C3%BCsch-zug-25-cm/62-art.html |
-| 🟡 | TRAMi | TRAM | Spain | 9,99€ | https://botiga.tram.cat/en/product/tram-plush-toy/ |
+| 🟢 | TRAMi | TRAM | Spain | 9,99€ | https://botiga.tram.cat/en/product/tram-plush-toy/ |
 | 🟢 | Tram Pillow | TRAM | Spain | 49,95€ | https://botiga.tram.cat/en/product/tram-shaped-pillow/ |
 | 🔵 | ASm Be 4/8 | Aare Seenland Mobil | Switzerand | 20 CHF | https://www.asmobil.ch/de/aktuelles/pluesch-zug.html only offline in stores |
 | 🟢 | Plüschzug GIPIX  | Golden Pass Express / MOB | Switzerland | 15 CHF | https://journey.mob.ch/de/products/peluche-gipix |
@@ -44,7 +49,7 @@ Collection of train plushies
 | 🟢 | BART | Bay Area Rapid Transit | USA | $12.00 | https://www.railgoods.com/bart-plush-train.html |
 | 🟢 | CORI | Capitol Corridor | USA | $14.99 | https://www.railgoods.com/capitol-corridor-plush-cori-train.html |
 | 🟢 | Jenkinson's Beach Train | Jenkinson’s Boardwalk | USA | $14.99 | https://jenkinsonsboardwalkstore.company.site/Jenkinsons-Beach-Train-Plush-p594216302 |
-| 🟢 | Mount Washington Cog Railway | Mount Washington Cog Railway | USA | $20.00 | https://www.thecog.com/store/p/mount-washington-cog-railway-plush-steam-train |
+| 🟢 | Mount Washington Cog Railway | Mount Washington Cog Railway | USA | $20.00 | https://thecog.myncrsilver.com/commerce/product/5ea80232-c3ac-4c91-a837-171826f19786 |
 | 🟢 | NYC Subway Train | NYC Subway | USA | $69.99 | https://shop.tenement.org/product/handmade-organic-nyc-subway-train/ |
 | 🟡 | NYC Subway Train | NYC Subway | USA | $14.99 | https://www.citysouvenirs.com/new-york-city-plush-subway-train-car/ |
 | 🟢 | Metro plush | SEPTA | USA | $19.95 | https://shop.septa.org/collections/toys/products/stuffed-train |
@@ -67,6 +72,7 @@ Collection of train plushies
 | 🔴 | FEC Train | Florida East Coast | USA | n/a | https://www.ebay.com/itm/176493212164 |
 | 🔴 | FEC Train in red | Florida East Coast | USA | n/a | https://www.jimmytoy.com/red-automobile-stuffed-plush-toy-for-boys-product/ |
 
+
 # Unofficial trains
 
 |    | Model | Train Operator | Country | Price | Image / Weblink |
@@ -76,5 +82,11 @@ Collection of train plushies
 | 🟢 | Peak Tram | HSH | Hongkong | n/a | https://sourcing.hktdc.com/en/Product-Detail/Peak-Tram-Plush-1X1THN5Y |
 | 🟢 | Cable Car | San Francisco | USA | 13,99€ | https://inooko.com/products/jouet-chien-tramway-san-francisco-pet-play |
 
+# Discontinued unofficial trains
+
+
+|    | Model | Train Operator | Country | Price | Image / Weblink |
+| --- | ----- | -------------- | ------- | ----- | --------------- |
+| 🔴 | Cable Car | San Francisco | USA | 13,99€ | https://inooko.com/products/jouet-chien-tramway-san-francisco-pet-play |
 
 Cool unofficial train pillows: https://cosacostra.com/en/collections/cojines
