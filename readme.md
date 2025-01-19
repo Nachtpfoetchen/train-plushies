@@ -13,7 +13,6 @@ Collection of train plushies
 
 |    | Model | Train Operator | Country | Price | Image / Weblink |
 | --- | ----- | -------------- | ------- | ----- | --------------- |
-| 🟢 | Felexity | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-Strassenbahn-Flexity/PLFLEX |
 | 🟢 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | 🟢 | Cindy Cityjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-cindy-cityjet/ |
 | 🟡 | Timi Taurus | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-timi-taurus/ |
@@ -52,6 +51,7 @@ Collection of train plushies
 
 |    | Model | Train Operator | Country | Price | Image / Weblink |
 | --- | ----- | -------------- | ------- | ----- | --------------- |
+| 🔴 | Felexity | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-Strassenbahn-Flexity/PLFLEX |
 | 🔴 | V-Wagen | Wiener Linien | Austria | 24,90€ | https://web.archive.org/web/20240422204337/https://shop.wienerlinien.at/Pluesch-U-Bahn-V-Wagen/PLVZUG |
 | 🔴 | Kuschel U-Bahn | BVG | Germany | unkown | https://de.m.wikipedia.org/wiki/Datei:Kuschel-ubahn_f%C3%BCr_metrophile.jpg |
 | 🔴 | HK Tramcar | Hongkong Tramways | Hongkong | n/a | https://tramric.wordpress.com/2012/11/03/cute-hk-tramcar-plush/ |
