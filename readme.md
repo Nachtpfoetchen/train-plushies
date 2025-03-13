@@ -13,6 +13,8 @@ Collection of train plushies
 
 |    | Model | Train Operator | Country | Price | Image / Weblink |
 | --- | ----- | -------------- | ------- | ----- | --------------- |
+| 🟢 | X-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-X-Wagen/PLXZUG |
+| 🟢 | E1-Straßenbahn  | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-E1-Strassenbahn/PLE1 |
 | 🟢 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | 🟢 | Cindy Cityjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-cindy-cityjet/ |
 | 🟡 | Timi Taurus | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-timi-taurus/ |
