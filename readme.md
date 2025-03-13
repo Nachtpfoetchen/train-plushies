@@ -15,7 +15,6 @@ Collection of train plushies
 | --- | ----- | -------------- | ------- | ----- | --------------- |
 | 🟢 | X-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-X-Wagen/PLXZUG |
 | 🟢 | E1-Straßenbahn  | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-E1-Strassenbahn/PLE1 |
-| 🟢 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | 🟡 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | 🟢 | Elfík plyšová hračka | CD | Czech Republic | 199,00 Kč | https://www.cd.cz/fanshop/hracky/1375-elfik-plysova-hracka.html| 
 | 🔵 | Pauly | KVV | Germany | 9,50€ | [🖼️](images/germany-kvv-pauly.jpg) only offline in KVV service center (Durlacher Allee) |
@@ -26,31 +25,34 @@ Collection of train plushies
 | 🔵 | ASm Be 4/8 | Aare Seenland Mobil | Switzerand | 20 CHF | https://www.asmobil.ch/de/aktuelles/pluesch-zug.html only offline in stores |
 | 🟢 | Plüschzug GIPIX  | Golden Pass Express / MOB | Switzerland | 15 CHF | https://journey.mob.ch/de/products/peluche-gipix |
 | 🟢 | Plüschzug Allegra | RhB | Switzerland | 18,50 CHF | https://www.rhb-shop.ch/de/kategorie-fur-rhb/pluschzug-allegra/ |
-| 🟢 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
+| 🟡 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
 | 🟢 | SOB-Plüschfuchs Zoe | SOB | Switzerland | 20 CHF | https://shop.sob.ch/de/accessoires/souvenirs/sob-fanartikel/plueschfuchs | 
 | 🟢 | Krokodil | Verschiedene | Switzerland | 21,90 CHF | https://shop.verkehrshaus.ch/Pluesch-Krokodil-Lokomotive | 
-| 🟢 | 507-001 Original Livery | Merseyrail | UK | £25.00 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/19 |
+| 🟡 | 507-001 Original Livery | Merseyrail | UK | £25.00 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/19 |
 | 🟢 | Flying Scotsman | National Railway Museum | UK | £25.00 | https://shop.sciencemuseum.org.uk/products/flying-scotsman-plush-train |
 | 🔵 | Azuma | North Eastern Railway | UK | | Local, on special events https://www.facebook.com/photo.php?fbid=889663713192003&id=100064451482318&set=a.660554439436266 |
 | 🟢 | Elizabeth II | Severn Valley Railway | UK | £20.00 | https://svrshop.co.uk/products/new-severn-valley-railway-elizabeth-ii-hagley-hall-plushs |
 | 🟢 | Hagley Hall | Severn Valley Railway | UK | £20.00 | https://svrshop.co.uk/products/new-severn-valley-railway-elizabeth-ii-hagley-hall-plushs |
 | 🟢 | Elizabeth Line Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/elizabeth-line-train-soft-toy |
 | 🟢 | London Underground 1938 Stock Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-1938-stock-train-soft-toy |
-| 🟢 | London Underground Line Colours | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-line-colours-cushion |
+| 🟡 | London Underground Line Colours | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-line-colours-cushion |
 | 🟢 | SD-70 Mac Engine | Alaska Railroad | USA | $24.95 | https://www.alaskarailroadgiftshop.com/product/plush-engine-pillow/956 |
 | 🟢 | ALC-42 | Amtrak | USA | $17.98 | https://www.store.amtrak.com/1737058/1737058/alc-42-plush-toy-train.html |
 | 🟢 | BART | Bay Area Rapid Transit | USA | $12.00 | https://www.railgoods.com/bart-plush-train.html |
 | 🟢 | CORI | Capitol Corridor | USA | $14.99 | https://www.railgoods.com/capitol-corridor-plush-cori-train.html |
-| 🟢 | Jenkinson's Beach Train | Jenkinson’s Boardwalk | USA | $14.99 | https://jenkinsonsboardwalkstore.company.site/Jenkinsons-Beach-Train-Plush-p594216302 |
 | 🟢 | Mount Washington Cog Railway | Mount Washington Cog Railway | USA | $20.00 | https://thecog.myncrsilver.com/commerce/product/5ea80232-c3ac-4c91-a837-171826f19786 |
 | 🟢 | NYC Subway Train | NYC Subway | USA | $69.99 | https://shop.tenement.org/product/handmade-organic-nyc-subway-train/ |
-| 🟡 | NYC Subway Train | NYC Subway | USA | $14.99 | https://www.citysouvenirs.com/new-york-city-plush-subway-train-car/ |
 | 🟢 | Metro plush | SEPTA | USA | $19.95 | https://shop.septa.org/collections/toys/products/stuffed-train |
 
 ## Discontinued Trains
 
 |    | Model | Train Operator | Country | Price | Image / Weblink |
 | --- | ----- | -------------- | ------- | ----- | --------------- |
+| 🔴 | NYC Subway Train | NYC Subway | USA | $14.99 | https://www.citysouvenirs.com/new-york-city-plush-subway-train-car/ |
+| 🔴 | Jenkinson's Beach Train | Jenkinson’s Boardwalk | USA | $14.99 | https://jenkinsonsboardwalkstore.company.site/Jenkinsons-Beach-Train-Plush-p594216302 |
+| 🔴 | Nora Nightjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-nora-nightjet/ |
+| 🔴 | Timi Taurus | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-timi-taurus/ |
+| 🔴 | Cindy Cityjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-cindy-cityjet/ |
 | 🔴 | Felexity | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-Strassenbahn-Flexity/PLFLEX |
 | 🔴 | V-Wagen | Wiener Linien | Austria | 24,90€ | https://web.archive.org/web/20240422204337/https://shop.wienerlinien.at/Pluesch-U-Bahn-V-Wagen/PLVZUG |
 | 🔴 | Kuschel U-Bahn | BVG | Germany | unkown | https://de.m.wikipedia.org/wiki/Datei:Kuschel-ubahn_f%C3%BCr_metrophile.jpg |
@@ -71,9 +73,8 @@ Collection of train plushies
 |    | Model | Train Operator | Country | Price | Image / Weblink |
 | --- | ----- | -------------- | ------- | ----- | --------------- |
 | 🟢 | Melbourne Tram | Melbourne & Metropolitan Tramways | Australia | 19.99$ | https://www.souvenirsdirect.net.au/product/melbourne-tram-plush-soft-toy/ |
-| 🟢 | Murat | Kotoon | Germany | 33,95€ | https://www.moodrush.de/shop/kotoon-murat-der-zug.html |
+| 🟡 | Murat | Kotoon | Germany | 33,95€ | https://www.moodrush.de/shop/kotoon-murat-der-zug.html |
 | 🟢 | Peak Tram | HSH | Hongkong | n/a | https://sourcing.hktdc.com/en/Product-Detail/Peak-Tram-Plush-1X1THN5Y |
-| 🟢 | Cable Car | San Francisco | USA | 13,99€ | https://inooko.com/products/jouet-chien-tramway-san-francisco-pet-play |
 
 # Discontinued unofficial trains
 
