@@ -18,6 +18,7 @@ Collection of train plushies
 | 🟡 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | 🟢 | Elfík plyšová hračka | CD | Czech Republic | 199,00 Kč | https://www.cd.cz/fanshop/hracky/1375-elfik-plysova-hracka.html| 
 | 🔵 | Pauly | KVV | Germany | 9,50€ | [🖼️](images/germany-kvv-pauly.jpg) only offline in KVV service center (Durlacher Allee) |
+| 🟢 | Schwuppi die Schwebebahn | WSW | Germany | 29,95€ | https://schwuppidieschwebebahn.de/shop/schwuppi-plueschfigur/ |
 | 🔵 | VRIM | NS | Netherlands | n/a | only offline in Spoorweg Museum |
 | 🟢 | Underground train plushy | Park Postojnska Jama | Slovenia | 16,99€ | https://tickets.postojnska-jama.eu/en/shop/pl%C3%BCsch-zug-25-cm/62-art.html |
 | 🟢 | TRAMi | TRAM | Spain | 9,99€ | https://botiga.tram.cat/en/product/tram-plush-toy/ |
@@ -73,7 +74,6 @@ Collection of train plushies
 |    | Model | Train Operator | Country | Price | Image / Weblink |
 | --- | ----- | -------------- | ------- | ----- | --------------- |
 | 🟢 | Melbourne Tram | Melbourne & Metropolitan Tramways | Australia | 19.99$ | https://www.souvenirsdirect.net.au/product/melbourne-tram-plush-soft-toy/ |
-| 🟢 | Schwuppi die Schwebebahn | WSW | Germany | 29,95€ | https://schwuppidieschwebebahn.de/shop/schwuppi-plueschfigur/ |
 | 🟡 | Murat | Kotoon | Germany | 33,95€ | https://www.moodrush.de/shop/kotoon-murat-der-zug.html |
 | 🟢 | Peak Tram | HSH | Hongkong | n/a | https://sourcing.hktdc.com/en/Product-Detail/Peak-Tram-Plush-1X1THN5Y |
 
