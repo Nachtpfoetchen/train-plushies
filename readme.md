@@ -39,9 +39,12 @@ Collection of train plushies
 | 🟡 | London Underground Line Colours | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-line-colours-cushion |
 | 🟢 | SD-70 Mac Engine | Alaska Railroad | USA | $24.95 | https://www.alaskarailroadgiftshop.com/product/plush-engine-pillow/956 |
 | 🟢 | ALC-42 | Amtrak | USA | $17.98 | https://www.store.amtrak.com/1737058/1737058/alc-42-plush-toy-train.html |
+| 🟢 | Amtrak | Amtrak | USA | $30.00 | https://rmne.square.site/product/amtrak-plush-pillow/234 |
 | 🟢 | BART | Bay Area Rapid Transit | USA | $12.00 | https://www.railgoods.com/bart-plush-train.html |
 | 🟢 | CORI | Capitol Corridor | USA | $14.99 | https://www.railgoods.com/capitol-corridor-plush-cori-train.html |
+| 🟢 | Conrail | Conrail | USA | $30.00 | https://rmne.square.site/product/conrail-plush-pillow/236 |
 | 🟢 | Mount Washington Cog Railway | Mount Washington Cog Railway | USA | $20.00 | https://thecog.myncrsilver.com/commerce/product/5ea80232-c3ac-4c91-a837-171826f19786 |
+| 🟢 | FL-9 | New York, New Haven and Hartford Railroad | USA | $30.00 | https://rmne.square.site/product/fl-9-plush-pillow/235 |
 | 🟢 | NYC Subway Train | NYC Subway | USA | $69.99 | https://shop.tenement.org/product/handmade-organic-nyc-subway-train/ |
 | 🟢 | Metro plush | SEPTA | USA | $19.95 | https://shop.septa.org/collections/toys/products/stuffed-train |
 
