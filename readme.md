@@ -41,6 +41,7 @@ Collection of train plushies
 | 🟢 | SD-70 Mac Engine | Alaska Railroad | USA | $24.95 | https://www.alaskarailroadgiftshop.com/product/plush-engine-pillow/956 |
 | 🟢 | ALC-42 | Amtrak | USA | $17.98 | https://www.store.amtrak.com/1737058/1737058/alc-42-plush-toy-train.html |
 | 🟢 | Amtrak | Amtrak | USA | $30.00 | https://rmne.square.site/product/amtrak-plush-pillow/234 |
+| 🟢 | BNSF 3668 | BNSF | USA | $32.95 | https://www.bnsfstore.com/locomotive-train-plush |
 | 🟢 | BART | Bay Area Rapid Transit | USA | $12.00 | https://www.railgoods.com/bart-plush-train.html |
 | 🟢 | CORI | Capitol Corridor | USA | $14.99 | https://www.railgoods.com/capitol-corridor-plush-cori-train.html |
 | 🟢 | Conrail | Conrail | USA | $30.00 | https://rmne.square.site/product/conrail-plush-pillow/236 |
