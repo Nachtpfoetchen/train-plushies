@@ -17,6 +17,7 @@ Collection of train plushies
 | 🟢 | E1-Straßenbahn  | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-E1-Strassenbahn/PLE1 |
 | 🟡 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | 🟢 | Elfík plyšová hračka | CD | Czech Republic | 199,00 Kč | https://www.cd.cz/fanshop/hracky/1375-elfik-plysova-hracka.html| 
+| 🟢 | Straßenbahn | KVB | Germany | 19,95€ | https://www.kvb-shop.de/item/KVB-0072 |
 | 🔵 | Pauly | KVV | Germany | 9,50€ | [🖼️](images/germany-kvv-pauly.jpg) only offline in KVV service center (Durlacher Allee) |
 | 🟢 | Schwuppi die Schwebebahn | WSW | Germany | 29,95€ | https://schwuppidieschwebebahn.de/shop/schwuppi-plueschfigur/ |
 | 🔵 | VRIM | NS | Netherlands | n/a | only offline in Spoorweg Museum |
