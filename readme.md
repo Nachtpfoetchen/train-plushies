@@ -30,6 +30,7 @@ Collection of train plushies
 | 🟡 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
 | 🟢 | SOB-Plüschfuchs Zoe | SOB | Switzerland | 20 CHF | https://shop.sob.ch/de/accessoires/souvenirs/sob-fanartikel/plueschfuchs | 
 | 🟢 | Krokodil | Verschiedene | Switzerland | 21,90 CHF | https://shop.verkehrshaus.ch/Pluesch-Krokodil-Lokomotive | 
+| 🟢 | Glen | Caledonian Sleeper | UK | £22.95 | https://sleepersouvenirs.scot/products/caledonian-sleeper-plush-train-engine |
 | 🟡 | Mallard Train | London and North Eastern Railway | UK | £25.00 | https://shop.sciencemuseum.org.uk/products/national-railway-museum-plush-mallard-train |
 | 🟡 | 507-001 Original Livery | Merseyrail | UK | £25.00 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/19 |
 | 🟢 | Flying Scotsman | National Railway Museum | UK | £25.00 | https://shop.sciencemuseum.org.uk/products/flying-scotsman-plush-train |
