@@ -17,10 +17,10 @@ Collection of train plushies
 | 🟢 | E1-Straßenbahn  | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-E1-Strassenbahn/PLE1 |
 | 🟡 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | 🟢 | Elfík plyšová hračka | CD | Czech Republic | 199,00 Kč | https://www.cd.cz/fanshop/hracky/1375-elfik-plysova-hracka.html| 
+| 🔵 | Strippi O-Bus | BBG | Germany | 5,00€ | [🖼️](images/germany-bbg-strippi.jpg) only offline in BBG service center (Eberswalde Markt) |
 | 🟢 | Straßenbahn | KVB | Germany | 19,95€ | https://www.kvb-shop.de/item/KVB-0072 |
 | 🔵 | Pauly | KVV | Germany | 9,50€ | [🖼️](images/germany-kvv-pauly.jpg) only offline in KVV service center (Durlacher Allee) |
 | 🟢 | Schwuppi die Schwebebahn | WSW | Germany | 29,95€ | https://schwuppidieschwebebahn.de/shop/schwuppi-plueschfigur/ |
-| 🔵 | Strippi O-Bus | BBG | Germany | 5,00€ | [🖼️](images/germany-bbg-strippi.jpg) only offline in BBG service center (Eberswalde Markt) |
 | 🔵 | VRIM | NS | Netherlands | n/a | only offline in Spoorweg Museum |
 | 🟢 | Underground train plushy | Park Postojnska Jama | Slovenia | 16,99€ | https://tickets.postojnska-jama.eu/en/shop/pl%C3%BCsch-zug-25-cm/62-art.html |
 | 🟢 | TRAMi | TRAM | Spain | 9,99€ | https://botiga.tram.cat/en/product/tram-plush-toy/ |
