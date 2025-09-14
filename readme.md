@@ -29,6 +29,7 @@ Collection of train plushies
 | 🟢 | Plüschzug Allegra | RhB | Switzerland | 18,50 CHF | https://www.rhb-shop.ch/de/kategorie-fur-rhb/pluschzug-allegra/ |
 | 🟢 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
 | 🟢 | SOB-Plüschfuchs Zoe | SOB | Switzerland | 20 CHF | https://shop.sob.ch/de/accessoires/souvenirs/sob-fanartikel/plueschfuchs | 
+| 🟢 | Traverso-Plüschzug | SOB | Switzerland | 22,00 CHF | https://unterwegs.sob.ch/de/products/traverso-plueschzug |
 | 🟢 | Krokodil | Verschiedene | Switzerland | 21,90 CHF | https://shop.verkehrshaus.ch/Pluesch-Krokodil-Lokomotive | 
 | 🟢 | Glen | Caledonian Sleeper | UK | £22.95 | https://sleepersouvenirs.scot/products/caledonian-sleeper-plush-train-engine |
 | 🟢 | Mallard Train | London and North Eastern Railway | UK | £25.00 | https://shop.sciencemuseum.org.uk/products/national-railway-museum-plush-mallard-train |
