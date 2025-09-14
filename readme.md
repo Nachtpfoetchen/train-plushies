@@ -13,7 +13,6 @@ Collection of train plushies
 
 |    | Model | Train Operator | Country | Price | Image / Weblink |
 | --- | ----- | -------------- | ------- | ----- | --------------- |
-| 🟡 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | 🟢 | E1-Straßenbahn  | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-E1-Strassenbahn/PLE1 |
 | 🟢 | X-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-X-Wagen/PLXZUG |
 | 🟢 | Elfík plyšová hračka | CD | Czech Republic | 199,00 Kč | https://www.cd.cz/fanshop/hracky/1375-elfik-plysova-hracka.html| 
@@ -28,22 +27,22 @@ Collection of train plushies
 | 🔵 | ASm Be 4/8 | Aare Seenland Mobil | Switzerand | 20 CHF | https://www.asmobil.ch/de/aktuelles/pluesch-zug.html only offline in stores |
 | 🟢 | Plüschzug GIPIX  | Golden Pass Express / MOB | Switzerland | 15 CHF | https://journey.mob.ch/de/products/peluche-gipix |
 | 🟢 | Plüschzug Allegra | RhB | Switzerland | 18,50 CHF | https://www.rhb-shop.ch/de/kategorie-fur-rhb/pluschzug-allegra/ |
-| 🟡 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
+| 🟢 | RE 460 | SBB | Switzerland | 17,90 CHF | https://commerce.sbb.ch/de/plusch-lok-sbb-re-460-131.html |
 | 🟢 | SOB-Plüschfuchs Zoe | SOB | Switzerland | 20 CHF | https://shop.sob.ch/de/accessoires/souvenirs/sob-fanartikel/plueschfuchs | 
 | 🟢 | Krokodil | Verschiedene | Switzerland | 21,90 CHF | https://shop.verkehrshaus.ch/Pluesch-Krokodil-Lokomotive | 
 | 🟢 | Glen | Caledonian Sleeper | UK | £22.95 | https://sleepersouvenirs.scot/products/caledonian-sleeper-plush-train-engine |
-| 🟡 | Mallard Train | London and North Eastern Railway | UK | £25.00 | https://shop.sciencemuseum.org.uk/products/national-railway-museum-plush-mallard-train |
+| 🟢 | Mallard Train | London and North Eastern Railway | UK | £25.00 | https://shop.sciencemuseum.org.uk/products/national-railway-museum-plush-mallard-train |
 | 🟡 | 507-001 Original Livery | Merseyrail | UK | £25.00 | https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/19 |
 | 🟢 | Flying Scotsman | National Railway Museum | UK | £25.00 | https://shop.sciencemuseum.org.uk/products/flying-scotsman-plush-train |
 | 🔵 | Azuma | North Eastern Railway | UK | | Local, on special events https://www.facebook.com/photo.php?fbid=889663713192003&id=100064451482318&set=a.660554439436266 |
 | 🟢 | Elizabeth II | Severn Valley Railway | UK | £20.00 | https://svrshop.co.uk/products/new-severn-valley-railway-elizabeth-ii-hagley-hall-plushs |
-| 🟢 | Hagley Hall | Severn Valley Railway | UK | £20.00 | https://svrshop.co.uk/products/new-severn-valley-railway-elizabeth-ii-hagley-hall-plushs |
-| 🟢 | Elizabeth Line Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/elizabeth-line-train-soft-toy |
+| 🟡 | Hagley Hall | Severn Valley Railway | UK | £20.00 | https://svrshop.co.uk/products/new-severn-valley-railway-elizabeth-ii-hagley-hall-plushs |
+| 🟡 | Elizabeth Line Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/elizabeth-line-train-soft-toy |
 | 🟢 | London Underground 1938 Stock Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-1938-stock-train-soft-toy |
-| 🟡 | London Underground Line Colours | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-line-colours-cushion |
+| 🟢 | London Underground Line Colours | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-line-colours-cushion |
 | 🟢 | SD-70 Mac Engine | Alaska Railroad | USA | $24.95 | https://www.alaskarailroadgiftshop.com/product/plush-engine-pillow/956 |
-| 🟢 | ALC-42 | Amtrak | USA | $17.98 | https://www.store.amtrak.com/1737058/1737058/alc-42-plush-toy-train.html |
-| 🟢 | Amtrak | Amtrak | USA | $30.00 | https://rmne.square.site/product/amtrak-plush-pillow/234 |
+| 🟡 | Amtrak | Amtrak | USA | $30.00 | https://rmne.square.site/product/amtrak-plush-pillow/234 |
+| 🟢 | NextGen Acela Plush Toy Train | Amtrak | USA | $19.00 | https://www.store.amtrak.com/1777094/1777094/nextgen-acela-plush-toy-train.html |
 | 🟢 | BNSF 3668 | BNSF | USA | $32.95 | https://www.bnsfstore.com/locomotive-train-plush |
 | 🟢 | BART | Bay Area Rapid Transit | USA | $12.00 | https://www.railgoods.com/bart-plush-train.html |
 | 🟢 | CORI | Capitol Corridor | USA | $14.99 | https://www.railgoods.com/capitol-corridor-plush-cori-train.html |
@@ -57,6 +56,7 @@ Collection of train plushies
 
 |    | Model | Train Operator | Country | Price | Image / Weblink |
 | --- | ----- | -------------- | ------- | ----- | --------------- |
+| 🔴 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | 🔴 | NYC Subway Train | NYC Subway | USA | $14.99 | https://www.citysouvenirs.com/new-york-city-plush-subway-train-car/ |
 | 🔴 | Jenkinson's Beach Train | Jenkinson’s Boardwalk | USA | $14.99 | https://jenkinsonsboardwalkstore.company.site/Jenkinsons-Beach-Train-Plush-p594216302 |
 | 🔴 | Nora Nightjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-nora-nightjet/ |
@@ -73,6 +73,7 @@ Collection of train plushies
 | 🔴 | tarumi-railway | Tarumi Railway | Japan | n/a | https://raillab.jp/news/article/14065 |
 | 🔴 | SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://web.archive.org/web/20230328013454/https://unterwegs.sob.ch/de/products/sob-plueschzug-flirty seite verbuggt? Bild auf seite 35 in Essenz 16 Winter 2023: https://d29gqb72f8tdiw.cloudfront.net/media/pdf/4c/a3/c1/SW10790-1001-2001-3043.pdf  |
 | 🔴 | Merseyrail class 507/508 | Merseyrail | UK | £19.99 | https://web.archive.org/web/20240523003836/https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/1 |
+| 🔴 | ALC-42 | Amtrak | USA | $17.98 | https://www.store.amtrak.com/1737058/1737058/alc-42-plush-toy-train.html |
 | 🔴 | FEC Train | Florida East Coast | USA | n/a | https://www.ebay.com/itm/176493212164 |
 | 🔴 | FEC Train in red | Florida East Coast | USA | n/a | https://www.jimmytoy.com/red-automobile-stuffed-plush-toy-for-boys-product/ |
 
