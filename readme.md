@@ -17,6 +17,8 @@ Collection of train plushies
 | 🟢 | Nora Nightjet | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-nora-nightjet/ |
 | 🟢 | Timi Taurus | ÖBB | Austria | 14,90€ | https://shop.oebb.at/de/pluesch-timi-taurus/ |
 | 🟢 | E1-Straßenbahn  | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-E1-Strassenbahn/PLE1 |
+| 🟢 | Felexity | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-Strassenbahn-Flexity/PLFLEX |
+| 🟢 | V-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-V-Wagen/PLVZUG |
 | 🟢 | X-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-X-Wagen/PLXZUG |
 | 🟢 | Elfík plyšová hračka | CD | Czech Republic | 199,00 Kč | https://www.cd.cz/fanshop/hracky/1375-elfik-plysova-hracka.html| 
 | 🔵 | Strippi O-Bus | BBG | Germany | 5,00€ | [🖼️](images/germany-bbg-strippi.jpg) only offline in BBG service center (Eberswalde Markt) |
@@ -64,8 +66,6 @@ Collection of train plushies
 | 🔴 | WLB-Reihe 500 | Badner Bahn | Austria | 24,90€ | https://www.fanshop.wlb.at/fanshop/p/pluesch-badner-bahn |
 | 🔴 | NYC Subway Train | NYC Subway | USA | $14.99 | https://www.citysouvenirs.com/new-york-city-plush-subway-train-car/ |
 | 🔴 | Jenkinson's Beach Train | Jenkinson’s Boardwalk | USA | $14.99 | https://jenkinsonsboardwalkstore.company.site/Jenkinsons-Beach-Train-Plush-p594216302 |
-| 🔴 | Felexity | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-Strassenbahn-Flexity/PLFLEX |
-| 🔴 | V-Wagen | Wiener Linien | Austria | 24,90€ | https://web.archive.org/web/20240422204337/https://shop.wienerlinien.at/Pluesch-U-Bahn-V-Wagen/PLVZUG |
 | 🔴 | Kuschel U-Bahn | BVG | Germany | unkown | https://de.m.wikipedia.org/wiki/Datei:Kuschel-ubahn_f%C3%BCr_metrophile.jpg |
 | 🔴 | HK Tramcar | Hongkong Tramways | Hongkong | n/a | https://tramric.wordpress.com/2012/11/03/cute-hk-tramcar-plush/ |
 | 🔴 | Doctor Yellow | JR | Japan | n/a |  https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E5%93%81-m65887970341-923%E5%BD%A2%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%B3%E3%82%B0%E3%81%AC%E3%81%84%E3%81%90%E3%82%8B%E3%81%BF-130cm/dp/B0DCC2ZN47|
