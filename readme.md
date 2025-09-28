@@ -51,6 +51,7 @@ Collection of train plushies
 | 🟡 | Amtrak | Amtrak | USA | $30.00 | https://rmne.square.site/product/amtrak-plush-pillow/234 |
 | 🟢 | NextGen Acela Plush Toy Train | Amtrak | USA | $19.00 | https://www.store.amtrak.com/1777094/1777094/nextgen-acela-plush-toy-train.html |
 | 🟢 | BNSF 3668 | BNSF | USA | $32.95 | https://www.bnsfstore.com/locomotive-train-plush |
+| 🟢 | Boston MBTA Plush Green Line Trolley Toy | Boston MBTA | USA | $23.95 | https://www.sidetrackproducts.com/products/boston-mbta-plush-green-line-trolley-toy |
 | 🟢 | BART | Bay Area Rapid Transit | USA | $12.00 | https://www.railgoods.com/bart-plush-train.html |
 | 🟢 | CORI | Capitol Corridor | USA | $14.99 | https://www.railgoods.com/capitol-corridor-plush-cori-train.html |
 | 🟢 | Conrail | Conrail | USA | $30.00 | https://rmne.square.site/product/conrail-plush-pillow/236 |
