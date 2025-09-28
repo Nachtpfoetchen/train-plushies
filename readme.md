@@ -88,6 +88,7 @@ Collection of train plushies
 | 🟢 | Melbourne Tram | Melbourne & Metropolitan Tramways | Australia | 19.99$ | https://www.souvenirsdirect.net.au/product/melbourne-tram-plush-soft-toy/ |
 | 🟡 | Murat | Kotoon | Germany | 33,95€ | https://www.moodrush.de/shop/kotoon-murat-der-zug.html |
 | 🟢 | Peak Tram | HSH | Hongkong | n/a | https://sourcing.hktdc.com/en/Product-Detail/Peak-Tram-Plush-1X1THN5Y |
+| 🟢 | Train Bolster Plush | Hyggerium | Singapore | 26,95€ | https://hyggerium.com/products/train-bolster-plush |
 
 # Discontinued unofficial trains
 
