@@ -54,6 +54,7 @@ Collection of train plushies
 | 🟢 | BART | Bay Area Rapid Transit | USA | $12.00 | https://www.railgoods.com/bart-plush-train.html |
 | 🟢 | CORI | Capitol Corridor | USA | $14.99 | https://www.railgoods.com/capitol-corridor-plush-cori-train.html |
 | 🟢 | Conrail | Conrail | USA | $30.00 | https://rmne.square.site/product/conrail-plush-pillow/236 |
+| 🟢 | "Pre-Order" Other - Disneyland Resort Line Train Plush, MTR | Disney Land | USA | 31,95€ | https://castleplanethk.com/products/pre-order-other-disneyland-resort-line-train-plush-mtr |
 | 🟢 | Mount Washington Cog Railway | Mount Washington Cog Railway | USA | $20.00 | https://thecog.myncrsilver.com/commerce/product/5ea80232-c3ac-4c91-a837-171826f19786 |
 | 🟢 | FL-9 | New York, New Haven and Hartford Railroad | USA | $30.00 | https://rmne.square.site/product/fl-9-plush-pillow/235 |
 | 🟢 | NYC Subway Train | NYC Subway | USA | $69.99 | https://shop.tenement.org/product/handmade-organic-nyc-subway-train/ |
