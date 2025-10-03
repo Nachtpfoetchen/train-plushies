@@ -75,6 +75,7 @@ Collection of train plushies
 | 🔴 | N-700 | JR | Japan | n/a | https://www.amazon.co.jp/-/en/Shinkansen-Doctor-Yellow-Nozomi-Limited/dp/B0B54PZYDB |
 | 🔴 | Shinkansen E5 | JR | Japan | n/a | https://www.amazon.co.jp/-/en/Railway-Anniversary-Kujibiki-Shinkansen-Doctor/dp/B0BBVGK9Z1 |
 | 🔴 | tarumi-railway | Tarumi Railway | Japan | n/a | https://raillab.jp/news/article/14065 |
+| 🔴 | sky train | Bankog Transit System (BTS) | Thailand | n/a | https://buzzer.translink.ca/2010/01/a-plush-skytrain-from-bangkoks-transit-system/ |
 | 🔴 | SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://web.archive.org/web/20230328013454/https://unterwegs.sob.ch/de/products/sob-plueschzug-flirty seite verbuggt? Bild auf seite 35 in Essenz 16 Winter 2023: https://d29gqb72f8tdiw.cloudfront.net/media/pdf/4c/a3/c1/SW10790-1001-2001-3043.pdf  |
 | 🔴 | Merseyrail class 507/508 | Merseyrail | UK | £19.99 | https://web.archive.org/web/20240523003836/https://www.pcitelecom.uk/merseyrail-merchandise/Shop/Product/1 |
 | 🔴 | ALC-42 | Amtrak | USA | $17.98 | https://www.store.amtrak.com/1737058/1737058/alc-42-plush-toy-train.html |
