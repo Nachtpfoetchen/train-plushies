@@ -27,6 +27,7 @@ Collection of train plushies
 | 🔵 | RNV Plüschtram | RNV | Germany | | https://www.magenta-mannheim.de/artikel/magenta-entwickelt-sympathietraeger-fuer-rnv/ |
 | 🟢 | Schwuppi die Schwebebahn | WSW | Germany | 29,95€ | https://schwuppidieschwebebahn.de/shop/schwuppi-plueschfigur/ |
 | 🔵 | VRIM | NS | Netherlands | n/a | only offline in Spoorweg Museum |
+| 🟢 | Knuffeltrein | NS | Netherlands | 29,95€ | https://nsfanshop.nl/products/knuffeltrein |
 | 🟢 | Underground train plushy | Park Postojnska Jama | Slovenia | 16,99€ | https://tickets.postojnska-jama.eu/en/shop/pl%C3%BCsch-zug-25-cm/62-art.html |
 | 🟢 | Tram Pillow | TRAM | Spain | 49,95€ | https://botiga.tram.cat/en/product/tram-shaped-pillow/ |
 | 🟢 | TRAMi | TRAM | Spain | 9,99€ | https://botiga.tram.cat/en/product/tram-plush-toy/ |
