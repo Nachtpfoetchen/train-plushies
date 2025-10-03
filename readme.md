@@ -22,7 +22,7 @@ Collection of train plushies
 | 🟢 | X-Wagen | Wiener Linien | Austria | 24,90€ | https://shop.wienerlinien.at/Pluesch-U-Bahn-X-Wagen/PLXZUG |
 | 🟢 | Elfík plyšová hračka | CD | Czech Republic | 199,00 Kč | https://www.cd.cz/fanshop/hracky/1375-elfik-plysova-hracka.html| 
 | 🔵 | Strippi O-Bus | BBG | Germany | 5,00€ | [🖼️](images/germany-bbg-strippi.jpg) only offline in BBG service center (Eberswalde Markt) |
-| 🔵 | Plüsch Franzi | DEV | Germany | 18,94€ | only offline in DEV (Bruchhausen Vilsen) |
+| 🔵 | Plüsch Franzi | DEV | Germany | 18,94€ | only offline in DEV (Bruchhausen Vilsen), [ad in easter 2025 flyer](https://www.bruchhausen-vilsen.de/downloads/datei/YzM3OWRhNmRiZWFkYmU3OVk4VVlJeWlQUlBZeDBKQmQyV243bjV2QWZsQm1Ta0xRc0s4UVZoNHgzdDdVU2dYVHVQWjczMkVnWC8yRSsvcUd4UVFwck5TRWEzdTlJclFGTzI0WkgraUVUaE55ckFVdVFpVS9RbG1BcUtiaEZ0U0d4R0RoTmNIOTN4WHBZSTI3)|
 | 🟢 | Straßenbahn | KVB | Germany | 19,95€ | https://www.kvb-shop.de/item/KVB-0072 |
 | 🔵 | Pauly | KVV | Germany | 9,50€ | [🖼️](images/germany-kvv-pauly.jpg) only offline in KVV service center (Durlacher Allee) |
 | 🔵 | RNV Plüschtram | RNV | Germany | | https://www.magenta-mannheim.de/artikel/magenta-entwickelt-sympathietraeger-fuer-rnv/ |
