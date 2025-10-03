@@ -44,7 +44,7 @@ Collection of train plushies
 | 🔵 | Azuma | North Eastern Railway | UK | | Local, on special events https://www.facebook.com/photo.php?fbid=889663713192003&id=100064451482318&set=a.660554439436266 |
 | 🟢 | Elizabeth II | Severn Valley Railway | UK | £20.00 | https://svrshop.co.uk/products/new-severn-valley-railway-elizabeth-ii-hagley-hall-plushs |
 | 🟡 | Hagley Hall | Severn Valley Railway | UK | £20.00 | https://svrshop.co.uk/products/new-severn-valley-railway-elizabeth-ii-hagley-hall-plushs |
-| 🟡 | Elizabeth Line Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/elizabeth-line-train-soft-toy |
+| 🟢 | Elizabeth Line Train | Transport for London | UK | £28.00 | https://www.ltmuseumshop.co.uk/elizabeth-line-train-soft-toy / [link last time sold out] https://thelondontoycompany.co.uk/collections/london-underground/products/elizabeth-line-train-soft-toy |
 | 🟢 | London Underground 1938 Stock Train | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-1938-stock-train-soft-toy |
 | 🟢 | London Underground Line Colours | Transport for London | UK | 19,80€ | https://thelondontoycompany.co.uk/collections/london-underground/products/london-underground-line-colours-cushion |
 | 🟢 | SD-70 Mac Engine | Alaska Railroad | USA | $24.95 | https://www.alaskarailroadgiftshop.com/product/plush-engine-pillow/956 |
