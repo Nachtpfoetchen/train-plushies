@@ -102,4 +102,3 @@ Collection of train plushies
 | --- | ----- | -------------- | ------- | ----- | --------------- |
 | 🔴 | Cable Car | San Francisco | USA | 13,99€ | https://inooko.com/products/jouet-chien-tramway-san-francisco-pet-play |
 
-Cool unofficial train pillows: https://cosacostra.com/en/collections/cojines
