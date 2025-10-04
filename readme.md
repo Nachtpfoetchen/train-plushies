@@ -72,10 +72,10 @@ Collection of train plushies
 | 🔴 | Jenkinson's Beach Train | Jenkinson’s Boardwalk | USA | $14.99 | https://jenkinsonsboardwalkstore.company.site/Jenkinsons-Beach-Train-Plush-p594216302 |
 | 🔴 | Kuschel U-Bahn | BVG | Germany | unkown | https://de.m.wikipedia.org/wiki/Datei:Kuschel-ubahn_f%C3%BCr_metrophile.jpg |
 | 🔴 | HK Tramcar | Hongkong Tramways | Hongkong | n/a | https://tramric.wordpress.com/2012/11/03/cute-hk-tramcar-plush/ |
-| 🔴 | Doctor Yellow | JR | Japan | n/a |  https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E5%93%81-m65887970341-923%E5%BD%A2%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%B3%E3%82%B0%E3%81%AC%E3%81%84%E3%81%90%E3%82%8B%E3%81%BF-130cm/dp/B0DCC2ZN47|
-| 🔴 | Doctor Yellow | JR | Japan | n/a | https://www.amazon.co.jp/-/en/Railway-Anniversary-Kujibiki-Shinkansen-Doctor/dp/B0BBVGK9Z1 |
-| 🔴 | N-700 | JR | Japan | n/a | https://www.amazon.co.jp/-/en/Shinkansen-Doctor-Yellow-Nozomi-Limited/dp/B0B54PZYDB |
-| 🔴 | Shinkansen E5 | JR | Japan | n/a | https://www.amazon.co.jp/-/en/Railway-Anniversary-Kujibiki-Shinkansen-Doctor/dp/B0BBVGK9Z1 |
+| 🔴 | Doctor Yellow | JR | Japan | n/a |  |
+| 🔴 | Doctor Yellow | JR | Japan | n/a |  |
+| 🔴 | N-700 | JR | Japan | n/a |  |
+| 🔴 | Shinkansen E5 | JR | Japan | n/a |  |
 | 🔴 | tarumi-railway | Tarumi Railway | Japan | n/a | https://raillab.jp/news/article/14065 |
 | 🔴 | sky train | Bankog Transit System (BTS) | Thailand | n/a | https://buzzer.translink.ca/2010/01/a-plush-skytrain-from-bangkoks-transit-system/ |
 | 🔴 | SOB-Plüschzug Flirty | SOB | Switzerland | 20 CHF | https://web.archive.org/web/20230328013454/https://unterwegs.sob.ch/de/products/sob-plueschzug-flirty seite verbuggt? Bild auf seite 35 in Essenz 16 Winter 2023: https://d29gqb72f8tdiw.cloudfront.net/media/pdf/4c/a3/c1/SW10790-1001-2001-3043.pdf  |
@@ -92,6 +92,7 @@ Collection of train plushies
 | 🟢 | Melbourne Tram | Melbourne & Metropolitan Tramways | Australia | 19.99$ | https://www.souvenirsdirect.net.au/product/melbourne-tram-plush-soft-toy/ |
 | 🟡 | Murat | Kotoon | Germany | 33,95€ | https://www.moodrush.de/shop/kotoon-murat-der-zug.html |
 | 🟢 | Peak Tram | HSH | Hongkong | n/a | https://sourcing.hktdc.com/en/Product-Detail/Peak-Tram-Plush-1X1THN5Y |
+| 🟢 | Metro Pillows | CosaCostra | USA | $35.00 | https://cosacostra.com/en/collections/cojines?page=1 |
 | 🟢 | Train Bolster Plush | Hyggerium | Singapore | 26,95€ | https://hyggerium.com/products/train-bolster-plush |
 
 # Discontinued unofficial trains
